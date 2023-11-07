@@ -40,6 +40,7 @@ Agora, seu foguete está pronto para decolar! Acesse http://localhost:3000 e exp
 
 ## 🌟 Acesse o projeto por aqui:
 https://food-explorer-kallyl.netlify.app/
+🔑 admin: kallyl@admin.com - 123456
 
 ## 🪐 Contribuições
 Contribuições são mais do que bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
